@@ -12,7 +12,7 @@ export default function Recipes({
   return (
     <>
       <div className='card mt-5'>
-        <img className='card-img-top' src={image} alt='Card image cap' />
+        <img className='card-img-top' src={image} alt='Card image top' />
         <div className='card-title mt-3 text-center'>
           <h2>{title}</h2>
         </div>
