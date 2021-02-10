@@ -11,7 +11,7 @@ function App() {
   const loadData = async () => {
     const response = await axios.get(`http://localhost:3001/recipes `);
     setRecipes(response.data);
-    console.log(response.data.hit);
+    console.log(response.data);
   };
   useEffect(() => {
     loadData();
