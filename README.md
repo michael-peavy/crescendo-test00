@@ -1,5 +1,14 @@
 # Getting Started with Create React App
 
+clone repo
+
+npm i 
+
+npm start
+
+npm run start:api
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
